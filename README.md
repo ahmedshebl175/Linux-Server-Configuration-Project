@@ -1,6 +1,6 @@
 # Linux Server Configuration Project
 ## Third Project - Full Stack Web Developer Nanodegree Program - 1MAC - UDACITY
-### Project Overview
+# Project Overview
 I will take a baseline installation of a Linux server and prepare it to host my web applications. I will secure my server from a number of attack vectors, install and configure a database server, and deploy one of my existing web applications onto it.
 
 # Pre-requisite:
@@ -35,6 +35,11 @@ In order for my project to be reviewed, the grader needs to be able to log in to
 
 ### Another files:
     - udacity_grader.rsa (To acccess grader user in my server)
+    
+### NOTES
+    -IP address: 3.123.36.80
+    -SSH: 2200
+    -The complete URL to my hosted web application: 3.123.36.80
 
 # Version:
     - 1.0
